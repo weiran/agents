@@ -1,5 +1,7 @@
 # Agents
 
+Based on the structure and guardrails from https://github.com/steipete/agent-scripts.
+
 This repo is the shared home for Codex skills, agent guardrails, and lightweight helper scripts.
 
 ## Contents
